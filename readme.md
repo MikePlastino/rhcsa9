@@ -24,3 +24,4 @@ A quick shoutout to everywhere I got info from:
 - https://github.com/soficx/rhcsa
 - https://app.slack.com/client/TGTE0EB5Z/CHCHPFYQ4
 - https://acloudguru.com/course/red-hat-certified-system-administrator-ex200-exam-prep (Tom Dean and Ross Brunson)
+- https://www.youtube.com/watch?v=esbhLEM4zYc
